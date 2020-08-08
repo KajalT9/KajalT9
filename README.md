@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><ing height="20" src="https://tse3.mm.bing.net/th?id=OIP.iHC2PmBQjm29S04G5xGH3QHaD1&pid=Api&P=0&w=300&h=300"></code>
-  <code><img height="20" src="https://www.appsbee.com/blog/wp-content/uploads/2018/11/machine-learning-diagram02-900x535.png"></code>
+  <code><img height="20" src="https://i1.wp.com/enterpriseiotinsights.com/wp-content/uploads/2016/11/56637548_l.jpg?fit=2436,1722&ssl=1"></code>
 
 [![Kajal's github stats](https://github-readme-stats.vercel.app/api?username=KajalT9)](https://github.com/KajalT9/github-readme-stats)
