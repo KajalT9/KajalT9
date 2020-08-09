@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Stay Focussed
 -->
 - ⚡ Fun fact: Always Stay Focusssed
-
-**Languages and Tools:
+## Languages and Tools:
 
 <code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
 <code><img height="20" src="https://www.kenresearch.com/blog/wp-content/uploads/2017/06/IoT-Market.jpg"></code>
