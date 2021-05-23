@@ -7,8 +7,8 @@
 **KajalT9/KajalT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Internet of Things , Web Development and intriguied by Embedded Systems.
-- 🌱 I’m currently learning Embedded Systems Algortihms and presently chipping away with cool IoT Devices.
+- 🔭 I’m currently working on Internet of Things , Web Development and DSA.
+- 🌱 I’m currently learning Data structures and  Algortihms and presently chipping away with cool IoT Devices.
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/kajal-tiwari-41a4071a3/).
 - ⚡ Fun fact: Stay Focussed
 -->
