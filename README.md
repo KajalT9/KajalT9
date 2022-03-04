@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Internet of Things , Web Development and DSA.
 - 🌱 I’m currently learning Data structures and  Algortihms and presently chipping away with cool IoT Devices.
-- 🌱  I’m currently also learning about open source contribution and I'm part of GSSoc 22.
+- 🌱 Meanwhile I’m also learning about open source contribution and I'm part of GSSoc 22.
 - 📫 How to reach me: [Connect](https://www.linkedin.com/in/kajal-tiwari-41a4071a3/).
 - ⚡ Fun fact: Stay Focussed
 -->
